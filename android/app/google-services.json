@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353294610440",
+    "project_id": "nyfriendchicken",
+    "storage_bucket": "nyfriendchicken.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353294610440:android:b3fcecd88802005696e1bd",
+        "android_client_info": {
+          "package_name": "ny.chicken.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-b2zu0g1HH0soIxTHnyvLmmTDUJaqszI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
